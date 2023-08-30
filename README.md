@@ -1,4 +1,7 @@
-Project_Smart-Building
+# Project_Coffee-Prince
+서울시 커피박 재활용을 위한 수거함 입지 선정
+
+
 ## 📢 **프로젝트 간단 요약**
 
 #### 1. **분석 배경**
